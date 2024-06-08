@@ -1,7 +1,6 @@
 # @infusedui/core
 
-> [!IMPORTANT]
-> To add `@infusedui` to you project you need to create a `.npmrc` file at the same folder base of you `package.json` with this line
+To add `@infusedui` to you project you need to create a `.npmrc` file at the same folder base of you `package.json` with this line :
 
 ```npmrc
 @infusedui:registry=https://npm.pkg.github.com
@@ -12,8 +11,6 @@
 | [Loader](#loader) |
 
 ## Loader
-
-1. Structure
 
 ```tsx
 <span className="infusedui-loader">
